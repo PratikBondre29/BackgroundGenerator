@@ -1,0 +1,19 @@
+body{
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: none;
+    font-family: cursive;
+}
